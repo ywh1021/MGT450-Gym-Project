@@ -1,0 +1,11 @@
+﻿Equipment_Type,Quantity,Capacity_Users_Simultaneous,Average_Session_Minutes,Maintenance_Hours_Monthly,Replacement_Cost_CHF,Expected_Lifespan_Years,Energy_Consumption_kWh_Hour
+Treadmill,12,1,25,2,8500,8,2.5
+Elliptical,8,1,30,1.5,6200,10,1.8
+Stationary_Bike,10,1,28,1.5,4800,10,0.8
+Rowing_Machine,6,1,22,1,3500,12,0.2
+Smith_Machine,2,2,15,3,12000,15,0
+Squat_Rack,4,2,20,2,3200,20,0
+Bench_Press,6,2,18,2,2800,20,0
+Cable_Machine,4,2,25,2.5,8900,12,0.3
+Dumbbell_Set,3,8,12,0.5,15000,25,0
+Barbell_Set,2,6,15,1,4500,30,0

@@ -1,0 +1,9 @@
+﻿Facility_Area,Physical_Capacity_Max,Optimal_Capacity,Safety_Limit,Area_Sq_Meters,Equipment_Count,Opening_Hours_Weekday,Opening_Hours_Weekend
+Cardio Zone,45,35,50,180,35,14,10
+Weight Training,35,25,40,140,45,14,10
+Functional Training,20,15,25,80,20,14,10
+Group Exercise Rooms,25,20,30,100,0,12,8
+Swimming Pool,30,25,35,200,4,12,8
+Court Sports,24,20,28,300,2,14,10
+Climbing Wall,15,12,18,50,1,12,8
+Locker Rooms,80,60,90,200,0,16,12

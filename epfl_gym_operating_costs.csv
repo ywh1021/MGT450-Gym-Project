@@ -1,0 +1,9 @@
+﻿Cost_Category,Annual_Cost_CHF,Variable_Cost_Per_Student_CHF,Fixed_vs_Variable,Cost_Per_Hour_Operation
+Staff_Wages,280000,2.3,Mixed,19.4
+Equipment_Maintenance,45000,0.8,Variable,3.1
+Utilities,78000,1.2,Mixed,5.4
+Cleaning,52000,1,Variable,3.6
+Equipment_Replacement,35000,0.5,Fixed,2.4
+Insurance,18000,0.1,Fixed,1.2
+Administration,25000,0.3,Fixed,1.7
+Security,42000,0.4,Mixed,2.9
